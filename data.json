@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Dune",
+        "description": "Desert planet, giant worms, spice economics."
+    },
+    {
+        "title": "Neuromancer",
+        "description": "Console cowboy jacks into cyberspace."
+    },
+    {
+        "title": "Solaris",
+        "description": "Ocean planet that reads minds."
+    },
+    {
+        "title": "Foundation",
+        "description": "A mathematician predicts the fall of a galactic empire."
+    },
+    {
+        "title": "The Martian",
+        "description": "An astronaut survives alone on Mars using science."
+    }
+]
